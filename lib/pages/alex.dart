@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class Inicio extends StatelessWidget {
+class Alex extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Inicio'),
+        title: Text('Alex'),
         backgroundColor: Colors.greenAccent,
       ),
       body: Center(
